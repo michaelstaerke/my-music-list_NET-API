@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A0IETjCCkWo6SKuU5mvIyLbFNxgU3CmtEE3HWBa5rgU=",
+  "Source": "music-list-API",
+  "BasePath": "_content/music-list-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
