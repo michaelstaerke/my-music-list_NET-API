@@ -4,7 +4,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# Projektname
+
+## Projektbeschreibung
 
 .NET C# Portfolio & Lern -Projekt.
 Es ist ein reines Backend zur Speicherung von Musik Listen.
@@ -12,14 +13,23 @@ Es ist ein reines Backend zur Speicherung von Musik Listen.
 Version 1 beinhaltet erstmal nur das Speichern von einzelnen Musik Liedern 
 mit folgenden zu speichernden Informationen: 
 
+![alt text](https://www.programmingwithmukesh.com/Upload/ArticleHeader/Header/webapi.jpeg)
+
+
 ## Inhaltsverzeichnis
 
+- [Quellen](#quellen)
 - [Installation](#installation)
 - [Verwendung](#verwendung)
 - [Features](#features)
 - [Beispiel](#beispiel)
-- [Mitwirken](#mitwirken)
 - [Lizenz](#lizenz)
+
+
+## Quellen
+
+https://learn.microsoft.com/de-de/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio-code
+
 
 ## Installation
 
@@ -38,15 +48,26 @@ dotnet restore
 
 # Baue das Projekt
 dotnet build
-
-# Ausführen des Projekts
-dotnet run
 ```
 
+
 ## Verwendung
+
+```bash
+# Ausführen des Projekts
+dotnet run --launch-profile https
+```
+
+Anwendung öffnen / anzeigen:
+
+  Browser öffnen und  "https://localhost:7273/swagger/index.html" eingeben, 
+  voila die API-Funktionalität kann mithilfe der Swagger Benutzer-UI getestet werden
+
+Beenden der Anwendung:
+
+  im VSC-Terminal per crtl + c 
+
 
 ## Features
 
 ## Beispiel
-
-
