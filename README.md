@@ -1,4 +1,4 @@
-## Projekt-Tech
+## Tech-Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -13,10 +13,10 @@ Es ist ein reines Backend zur Speicherung von Musik Listen.
 Version 1 beinhaltet erstmal nur das Speichern von einzelnen Musik Liedern 
 mit folgenden zu speichernden Informationen: 
 
--Künstler
--Musiktitel
--Album
--Label
+-Künstler\
+-Titel\
+-Album\
+-Label\
 -Erscheinungsjahr
 
 
