@@ -1,8 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using music_list_API.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Add services to the container (=> Abhängigkeitscontainer)
 builder.Services.AddControllers();
+builder.Services.AddDbContext<MusicListContext>(opt => 
+  opt.UseInMemoryDatabase("MusicList"));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

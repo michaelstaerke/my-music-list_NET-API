@@ -31,3 +31,6 @@ C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\obj\Debug\net8.0\re
 C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\obj\Debug\net8.0\music-list-API.pdb
 C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\obj\Debug\net8.0\music-list-API.genruntimeconfig.cache
 C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\obj\Debug\net8.0\ref\music-list-API.dll
+C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Desktop\my-music-list\music-list-API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
