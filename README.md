@@ -13,6 +13,13 @@ Es ist ein reines Backend zur Speicherung von Musik Listen.
 Version 1 beinhaltet erstmal nur das Speichern von einzelnen Musik Liedern 
 mit folgenden zu speichernden Informationen: 
 
+-Künstler
+-Musiktitel
+-Album
+-Label
+-Erscheinungsjahr
+
+
 ![alt text](https://www.programmingwithmukesh.com/Upload/ArticleHeader/Header/webapi.jpeg)
 
 
