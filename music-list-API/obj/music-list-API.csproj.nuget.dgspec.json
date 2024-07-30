@@ -1,26 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\my-music-list\\music-list-API\\music-list-API.csproj": {}
+    "C:\\Users\\MichaelS\\OneDrive - cobra.de\\Desktop\\Programme_Projekte\\my-music-list_NET-API\\music-list-API\\music-list-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\my-music-list\\music-list-API\\music-list-API.csproj": {
+    "C:\\Users\\MichaelS\\OneDrive - cobra.de\\Desktop\\Programme_Projekte\\my-music-list_NET-API\\music-list-API\\music-list-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\my-music-list\\music-list-API\\music-list-API.csproj",
+        "projectUniqueName": "C:\\Users\\MichaelS\\OneDrive - cobra.de\\Desktop\\Programme_Projekte\\my-music-list_NET-API\\music-list-API\\music-list-API.csproj",
         "projectName": "music-list-API",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\my-music-list\\music-list-API\\music-list-API.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\my-music-list\\music-list-API\\obj\\",
+        "projectPath": "C:\\Users\\MichaelS\\OneDrive - cobra.de\\Desktop\\Programme_Projekte\\my-music-list_NET-API\\music-list-API\\music-list-API.csproj",
+        "packagesPath": "C:\\Users\\MichaelS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MichaelS\\OneDrive - cobra.de\\Desktop\\Programme_Projekte\\my-music-list_NET-API\\music-list-API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MichaelS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/cobra-gmbh/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -71,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

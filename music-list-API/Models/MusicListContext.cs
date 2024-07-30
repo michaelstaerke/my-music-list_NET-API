@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-
 namespace music_list_API.Models;
 
 public class MusicListContext : DbContext
@@ -8,5 +7,6 @@ public class MusicListContext : DbContext
     {
 
     }
-    public DbSet<MusicList> MusicLists { get; set; } = null!;
+    // a list of music songs
+    public DbSet<MusicSong> MusicLists { get; set; } = null!;
 }

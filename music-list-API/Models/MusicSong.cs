@@ -1,6 +1,6 @@
 namespace music_list_API.Models;
 
-public class MusicList
+public class MusicSong
 {
     public int Id { get; set; }
     public string? Artist { get; set; }
